@@ -42,7 +42,8 @@ setup(
     license="Apache",
     install_requires=[
         "spacy>=2.3.0,<3.0.0",
-        "requests>=2.0.0,<3.0.0" "conllu",
+        "requests>=2.0.0,<3.0.0",
+        "conllu",
         "numpy",
         "joblib",
         "nmslib>=1.7.3.6",
